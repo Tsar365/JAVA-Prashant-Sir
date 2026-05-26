@@ -6,3 +6,8 @@ Car(); ---> constructor
 
 this:
 ![Java Logo](images/this.png)
+
+static:
+static field k static/ non-static 2 ta tei access kra zy
+non-static k static er vitor apply kra zy na
+![Java Logo](images/static.png)
