@@ -3,3 +3,6 @@ myCar = new Car();  ---> new Car(): object create hoise. Then obj er address ref
 Car(); ---> constructor
 
 ![Java Logo](images/class-obj.png)
+
+this:
+![Java Logo](images/this.png)
