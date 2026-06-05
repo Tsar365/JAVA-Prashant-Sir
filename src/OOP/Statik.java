@@ -20,6 +20,7 @@ public class Statik {
         // non-static k static er vitor apply kra zy na
         minAge = 3; // allow .Cz age is static. This means statik.minAge
         System.out.println(minAge);
+        System.out.println(obj.minAge); // allow but not recommended
 
     }
 }
